@@ -1,0 +1,72 @@
+.rectas{
+    height: 30px;
+    background: #D9D9D9;
+}
+
+.login{
+    margin-top: 90px;
+}
+.brand{
+    margin-top: 10px;
+    color: #000;
+    font-size: 60px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+}
+.line{
+    margin: 0;
+    width: 700px;
+    height: 1px;
+    background: #000;
+}
+.hd{
+    margin-top: 20px;
+    color: #000;
+    text-align: center;
+    font-size: 25px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+}
+.form-group{
+    margin-top: 80px;
+    margin-left: 430px !important;
+}
+.label{
+    color: #000;
+    font-size: 18px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+}
+.form-text{
+    width: 400px !important;
+    height: 40px !important;
+    background: rgba(217, 217, 217, 0.33);
+    color: #000;
+    font-size: 14px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.btn-login{
+    margin-top: 70px;
+    width: 250px;
+    height: 45px;
+    background: #8C2BED;
+    color: #FFF;
+    text-align: center;
+    font-size: 20px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    transition: all 0.2s ease;
+}
+.btn-login:hover{
+    width: 350px;
+    color: #FFF;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+}

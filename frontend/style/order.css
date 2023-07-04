@@ -1,0 +1,97 @@
+.rectas{
+    height: 30px;
+    background: #D9D9D9;
+}
+.hed{
+    margin-top: 40px !important;
+    margin-left: 120px;
+    color: #000;
+    font-size: 30px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 300;
+    margin-top: 10px;
+}
+.jdul{
+    margin-top: 90px !important;
+    color: #000;
+    font-size: 30px;
+    font-family: Inter;
+    font-style: normal;
+    text-align: center;
+    font-weight: 300;
+    margin-top: 10px;
+}
+.prodk{
+    margin-left: 120px;
+    margin-top: 40px;
+}
+.namprod{
+    margin-left: 40px;
+}
+.namprod h5{
+    color: #000;
+    font-size: 20px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+}
+.grs{
+    margin-top: 70px !important;
+    margin: 0;
+    width: 1440px;
+    height: 1px;
+    background: #000;
+}
+
+.form-group{
+    margin-left: 120px;
+    margin-top: 80px;
+}
+.label{
+    color: #000;
+    font-size: 20px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+}
+.form-text{
+    width: 380px !important;
+    height: 45px;
+    background: rgba(217, 217, 217, 0.51);
+    color: #000;
+    font-size: 15px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+
+}
+.buton{
+    margin-top: 60px;
+}
+.btn-submit{
+    width: 300px;
+    height: 50px;
+    background: #8C2BED;
+    color: #FFF;
+    font-size: 18px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+}
+
+
+.copyright{
+    margin-top: 50px;
+    padding-top: 10px;
+    height: 45px;
+    background: #D9D9D9;
+}
+.copyright h5{
+    color: #000;
+    font-size: 18px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+}

@@ -1,0 +1,158 @@
+.rectas{
+    height: 30px;
+    background: #D9D9D9;
+}
+.hed{
+    color: #000;
+    font-size: 40px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.bar{
+    padding-left: 120px;
+    margin-top: 20px;
+    padding-top: 10px;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+}
+.marke{
+    color: #000;
+    font-size: 25px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+    height: 60px;
+    margin-left: 100px;
+    margin-right: 400px;
+}
+
+.btn-regist{
+    width: 180px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #000;
+    font-size: 18px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+    background: rgba(217, 217, 217, 0.32);
+
+}
+.buton-regis{
+    height: 75px;
+}
+
+.caripro{
+    height: 45px;
+    margin-top: 20px;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+}
+.caripro h5{
+    padding-top: 15px;
+    padding-bottom: 10px;
+    color: #000;
+    font-size: 18px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+}
+.btn-cari{
+    width: 180px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #000;
+    font-size: 18px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+    background: rgba(217, 217, 217, 0.32);
+}
+.kategori{
+    margin-left: 120px;
+    margin-top: 20px;
+}
+.kategori h5{
+    color: #000;
+    font-size: 18px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+    margin-right: 745px;
+}
+
+.produk{
+    margin-top: 40px;
+    margin-left: 140px;
+    margin-right: 120px;
+}
+.prod{
+    width: 180px;
+}
+.prod5{
+    width: 185px;
+    margin-left: 140px;
+}
+.produk h5{
+    color: #000;
+    font-size: 20px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+}
+.name-prd{
+    width: 185px;
+    margin-top: 10px !important;
+    color: #000;
+    margin-left: 15px !important;
+    font-size: 18px !important;
+    text-align: center;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+}
+.price{
+    margin-top: 10px;
+    color: #000;
+    font-size: 19px !important;
+    text-align: center;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+}
+.grs{
+    padding: 0;
+    margin: 0;
+    width: 180px;
+    height: 1px;
+    background: #000;
+}
+.buton{
+    color: #000;
+    font-size: 19px !important;
+    text-align: center;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+    margin-left: 60px;
+}
+
+.copyright{
+    margin-top: 50px;
+    padding-top: 10px;
+    height: 45px;
+    background: #D9D9D9;
+}
+.copyright h5{
+    color: #000;
+    font-size: 18px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+}
